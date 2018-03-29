@@ -1,3 +1,1 @@
-# SpaceInvaders
-# PokemonArena
 # PokemonArena
